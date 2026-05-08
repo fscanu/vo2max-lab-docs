@@ -5,7 +5,11 @@ permalink: /privacy-policy/
 ---
 
 **App:** VO2max Lab (`com.fescacomit.vo2maxlab`)
-**Developer:** FESCACOM IT (Federico Scanu)
+**Publisher / Data Controller:** FESCACOM IT SRL, a private limited liability company under Belgian law
+**Registered office:** Rue du Président 71, 1000 Brussels, Belgium
+**Crossroads Bank for Enterprises (BCE):** 0699.769.480
+**VAT number:** BE 0699.769.480
+**Legal representative:** Federico Scanu
 **Contact:** [scanufe@fescacomit.com](mailto:scanufe@fescacomit.com)
 **Last updated:** 2026-05-08
 **Effective date:** 2026-05-08
@@ -22,7 +26,9 @@ If you only read one section, this is it.
 
 ## 1. Who we are
 
-VO2max Lab is published by **FESCACOM IT**, a sole-proprietorship operated by Federico Scanu in Italy. There is no team, no parent company, and no third-party publisher. Questions, complaints, data requests: **scanufe@fescacomit.com**.
+VO2max Lab is published by **FESCACOM IT SRL**, a private limited liability company (Société à Responsabilité Limitée / Besloten Vennootschap) incorporated under Belgian law, with registered office at Rue du Président 71, 1000 Brussels, Belgium. The company is registered at the Belgian Crossroads Bank for Enterprises (BCE) under number 0699.769.480 (VAT BE 0699.769.480). Federico Scanu is the legal representative. There is no parent company, no third-party publisher, and no external team handling user data. Questions, complaints, data requests: **scanufe@fescacomit.com**.
+
+For the purposes of the GDPR (Regulation (EU) 2016/679), FESCACOM IT SRL is the **Data Controller** for any personal data processed by this app. The competent supervisory authority is the **Belgian Data Protection Authority (Autorité de protection des données / Gegevensbeschermingsautoriteit)**, https://www.autoriteprotectiondonnees.be.
 
 The Google Play package name is `com.fescacomit.vo2maxlab`. If you see another app claiming to be VO2max Lab under a different package name, it is not ours.
 
@@ -243,6 +249,6 @@ This disclaimer does not affect your rights under this Privacy Policy; it is inc
 ## 13. Contact
 
 **Email:** [scanufe@fescacomit.com](mailto:scanufe@fescacomit.com)
-**Postal address:** available on request.
+**Postal address:** FESCACOM IT SRL, Rue du Président 71, 1000 Brussels, Belgium
 
 For privacy-specific requests, please include `[privacy]` in the subject line so we route it correctly.

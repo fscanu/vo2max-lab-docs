@@ -5,7 +5,11 @@ permalink: /privacy-policy-it/
 ---
 
 **App:** VO2max Lab (`com.fescacomit.vo2maxlab`)
-**Sviluppatore:** FESCACOM IT (Federico Scanu)
+**Editore / Titolare del trattamento:** FESCACOM IT SRL, società a responsabilità limitata di diritto belga
+**Sede legale:** Rue du Président 71, 1000 Brussels, Belgium
+**Iscrizione BCE (Banque-Carrefour des Entreprises):** 0699.769.480
+**Partita IVA:** BE 0699.769.480
+**Legale rappresentante:** Federico Scanu
 **Contatto:** [scanufe@fescacomit.com](mailto:scanufe@fescacomit.com)
 **Ultimo aggiornamento:** 08/05/2026
 **Data di efficacia:** 08/05/2026
@@ -24,7 +28,9 @@ Se leggi una sola sezione, leggi questa.
 
 ## 1. Chi siamo
 
-VO2max Lab e' pubblicata da **FESCACOM IT**, ditta individuale di Federico Scanu (Italia). Non c'e' un team, non c'e' una capogruppo, non c'e' un editore terzo. Domande, reclami, richieste in materia di dati: **scanufe@fescacomit.com**.
+VO2max Lab e' pubblicata da **FESCACOM IT SRL**, società a responsabilità limitata di diritto belga (Société à Responsabilité Limitée / Besloten Vennootschap), con sede legale in Rue du Président 71, 1000 Brussels, Belgium. La società e' iscritta presso la Banque-Carrefour des Entreprises (BCE) belga al numero 0699.769.480 (Partita IVA BE 0699.769.480). Federico Scanu e' il legale rappresentante. Non c'e' una capogruppo, non c'e' un editore terzo, non c'e' un team esterno che gestisce i dati degli utenti. Domande, reclami, richieste in materia di dati: **scanufe@fescacomit.com**.
+
+Ai fini del GDPR (Regolamento (UE) 2016/679), FESCACOM IT SRL e' il **Titolare del trattamento** per i dati personali elaborati da questa app. L'autorità di controllo competente e' l'**Autorité de protection des données / Gegevensbeschermingsautoriteit (APD/GBA)** belga, https://www.autoriteprotectiondonnees.be. Gli utenti residenti in Italia possono in alternativa rivolgersi al Garante per la protezione dei dati personali, https://www.garanteprivacy.it (cooperazione "one-stop-shop" GDPR art. 56).
 
 Il nome del pacchetto sul Google Play Store e' `com.fescacomit.vo2maxlab`. Se vedi un'altra app che si dichiara VO2max Lab con un nome di pacchetto diverso, non e' nostra.
 
@@ -245,6 +251,6 @@ Questo disclaimer non incide sui tuoi diritti previsti dalla presente informativ
 ## 13. Contatti
 
 **Email:** [scanufe@fescacomit.com](mailto:scanufe@fescacomit.com)
-**Indirizzo postale:** disponibile su richiesta.
+**Indirizzo postale:** FESCACOM IT SRL, Rue du Président 71, 1000 Brussels, Belgium
 
 Per richieste relative alla privacy, includi `[privacy]` nell'oggetto cosi' la indirizziamo correttamente.
