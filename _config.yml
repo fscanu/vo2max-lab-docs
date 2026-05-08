@@ -1,0 +1,26 @@
+# ABOUTME: Jekyll config for GitHub Pages serving Privacy Policy and landing for VO2max Lab
+# ABOUTME: Theme minima (default), permalink /:title/, excludes pre-existing asset folders
+
+title: VO2max Lab
+description: V̇O2max estimator Android app, Cooper test and Norwegian 4x4 protocol
+theme: minima
+url: https://fscanu.github.io
+baseurl: /vo2max-lab-docs
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:title/
+
+# Hide pre-existing asset folders (research notes, screenshots, stitch designs, ux audit, UX brief)
+# from the published site. They live under docs/ for repo organization but are not public-facing.
+exclude:
+  - UX_BRIEF.md
+  - research/
+  - screenshots/
+  - stitch/
+  - ux_audit/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
